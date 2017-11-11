@@ -1,2 +1,4 @@
 dev1 init
-p2改变
+
+p1 and p2 都改变了
+
