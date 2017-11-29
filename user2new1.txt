@@ -1,0 +1,6 @@
+dev1 init
+
+p1 and p2 都改变了
+
+bug02 fixed
+
